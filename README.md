@@ -1,4 +1,4 @@
-[![Codewars](https://github.r2v.ch/codewars?user=Whitris&top_languages=true&hide_clan=true&theme=purple_dark)](https://www.codewars.com/users/Whitris)
+[![Codewars](https://github.r2v.ch/codewars?user=Whitris&top_languages=true&hide_clan=true&theme=gradient_purple_dark)](https://www.codewars.com/users/Whitris)
 
 <!--
 **Whitris/Whitris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
