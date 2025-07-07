@@ -1,6 +1,6 @@
 # Hi, I'm Nicola
 
-I am a **AI/ML Engineer** with a background in Physics and a passion for building performant and intelligent software systems. 
+I am a **AI/ML Engineer** with a background in Physics and an interest for building performant and intelligent software systems. 
 
 My main focus is on **Generative AI** and optimizing Python algorithms for high performance computing (HPC), especially on GPUs.
 
