@@ -23,5 +23,3 @@ My main focus is on **Generative AI** and optimizing Python algorithms for high 
 - **Email:** nicola.marcantognini@outlook.com
 
 ---
-
-Translated with DeepL.com (free version)
