@@ -1,25 +1,42 @@
-# Hi, I'm Nicola
+# I'm Nicola Marcantognini
 
-I am a **AI/ML Engineer** with a background in Physics and an interest for building performant and intelligent software systems. 
+I'm an **AI/ML Engineer** with a background in Physics and a focus on building intelligent and high-performance systems using Python.
 
-My main focus is on **Generative AI** and optimizing Python algorithms for high performance computing (HPC), especially on GPUs.
+My work sits at the intersection of **Generative AI**, **systems optimization**, and **practical tooling** for machine learning workflows. I'm especially interested in accelerating ML workloads and improving developer experience through smart automation.
+
+---
+
+## 🚀 Featured Projects
+
+- 🔎 [**Open RAG Bot**](https://github.com/Whitris/open-rag-bot): Modular chatbot framework based on Retrieval-Augmented Generation (RAG), with CLI and Streamlit web UI. Plug-and-play support for OpenAI and Groq LLMs, ChromaDB for vector search, and full test coverage.
+
+- ⚙️ **[Python Profiling & Optimization Toolkit (WIP)](https://github.com/Whitris/python-profiling-toolkit)**: A command-line and Jupyter-integrated tool for profiling Python scripts, identifying performance bottlenecks, and generating actionable reports. Targeted at ML, ETL, and data workflows.
 
 ---
 
-### 🔭 What I am working on:
-- Exploration of fine-tuning techniques for Large Language Models (LLM).
-- Development of performant Python code with Numba and CuPy.
-- Personal projects combining computer graphics and parallel computing.
+## 🛠 Technical Skills
 
-### 🧠 My main skills:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=cuda&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-
-### 📫 How to reach me:
-- **LinkedIn:** https://www.linkedin.com/in/nicola-marcantognini/
-- **Email:** nicola.marcantognini@outlook.com
+- **Languages**: Python, SQL, (some Delphi)
+- **ML/AI**: PyTorch, Scikit-learn, Hugging Face, LangChain, Azure OpenAI
+- **Performance**: Numba, CuPy, cProfile, py-spy, tracemalloc
+- **Tools**: Git, GitHub, VS Code, Jupyter, Streamlit, PDM, CI/CD, Ruff
+- **Concepts**: RAG, LLM pipelines, ML Ops, profiling, optimization, parallelism (GPU/CPU)
 
 ---
+
+## 📚 Currently Learning & Building
+
+- Optimizing Python code paths for data-heavy applications.
+- Developing tools that make ML more explainable, faster, and testable.
+- Building educational resources and templates for profiling Python code effectively.
+
+---
+
+## 🌍 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/nicola-marcantognini)
+- [Email](mailto:nicola.marcantognini@outlook.com)
+
+---
+
+> I’m open to collaborations on developer tools, ML infra, and Python performance projects.
