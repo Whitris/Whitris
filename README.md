@@ -1,42 +1,51 @@
-# I'm Nicola Marcantognini
+# Nicola Marcantognini
 
-I'm an **AI/ML Engineer** with a background in Physics and a focus on building intelligent and high-performance systems using Python.
+Software Engineer focused on enterprise AI systems, experimentation platforms, and maintainable architecture design.
 
-My work sits at the intersection of **Generative AI**, **systems optimization**, and **practical tooling** for machine learning workflows. I'm especially interested in accelerating ML workloads and improving developer experience through smart automation.
+I work on improving the robustness, reproducibility, and structural clarity of AI-driven systems in large-scale environments.
 
----
+## Professional Focus
 
-## 🚀 Featured Projects
+- AI experimentation infrastructure
+- Evaluation-driven system design
+- LLM integration in enterprise contexts
+- Modular and extensible Python architectures
+- Reproducibility and traceability in ML workflows
+- Long-term maintainability of shared systems
 
-- 🔎 [**Open RAG Bot**](https://github.com/Whitris/open-rag-bot): Modular chatbot framework based on Retrieval-Augmented Generation (RAG), with CLI and Streamlit web UI. Plug-and-play support for OpenAI and Groq LLMs, ChromaDB for vector search, and full test coverage.
+## Professional Experience
 
-- ⚙️ **[Python Profiling & Optimization Toolkit (WIP)](https://github.com/Whitris/python-profiling-toolkit)**: A command-line and Jupyter-integrated tool for profiling Python scripts, identifying performance bottlenecks, and generating actionable reports. Targeted at ML, ETL, and data workflows.
+Contributing to enterprise AI initiatives in a large corporate environment:
 
----
+- Supporting the evolution of internal AI experimentation workflows
+- Contributing to abstraction design for multi-provider model integration
+- Working on evaluation and traceability mechanisms for AI systems
+- Improving modularity, testability, and architectural consistency across shared components
 
-## 🛠 Technical Skills
+Main technologies: Python, ML experimentation tooling, cloud-based environments, LLM ecosystems.
 
-- **Languages**: Python, SQL, (some Delphi)
-- **ML/AI**: PyTorch, Scikit-learn, Hugging Face, LangChain, Azure OpenAI
-- **Performance**: Numba, CuPy, cProfile, py-spy, tracemalloc
-- **Tools**: Git, GitHub, VS Code, Jupyter, Streamlit, PDM, CI/CD, Ruff
-- **Concepts**: RAG, LLM pipelines, ML Ops, profiling, optimization, parallelism (GPU/CPU)
+## Selected Public Project
 
----
+### Open RAG Bot  
+https://github.com/Whitris/open-rag-bot
 
-## 📚 Currently Learning & Building
+A modular RAG-based chatbot framework designed with clarity, reproducibility, and pluggable components in mind.
 
-- Optimizing Python code paths for data-heavy applications.
-- Developing tools that make ML more explainable, faster, and testable.
-- Building educational resources and templates for profiling Python code effectively.
+- Configurable LLM backends
+- Vector-based retrieval integration
+- Structured project layout and test coverage
 
----
+## Technical Stack
 
-## 🌍 Connect with me
+**Languages**  
+Python, SQL
 
-- [LinkedIn](https://www.linkedin.com/in/nicola-marcantognini)
-- [Email](mailto:nicola.marcantognini@outlook.com)
+**AI / ML**  
+PyTorch, Scikit-learn, ML experimentation tooling, LLM ecosystems
 
----
+**Engineering Practices**  
+Abstraction design, modular architecture, reproducibility, evaluation workflows, test-driven refactoring
 
-> I’m open to collaborations on developer tools, ML infra, and Python performance projects.
+## Engineering Direction
+
+I’m interested in platform and infrastructure-level challenges, especially where architectural decisions shape the long-term evolution of AI systems.
