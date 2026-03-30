@@ -7,3 +7,5 @@ Currently building agent infrastructure, LLM integration layers, and backend ser
 Previously: ML integration, optimization algorithms, GPU-accelerated pipelines.
 
 Physics background (MSc, University of Camerino).
+
+Contributed to [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) (2.8k stars, strictest Python linter).
