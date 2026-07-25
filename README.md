@@ -15,6 +15,6 @@ pipelines. Before that, control software for collaborative robotics.
 Physics background (MSc, University of Camerino).
 
 Contributed to [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide)
-— the strictest Python linter (~2.8k stars).
+— the strictest Python linter.
 
 **Italy** · [LinkedIn](https://linkedin.com/in/nicolamarcantognini) · nicola.marcantognini@outlook.com
